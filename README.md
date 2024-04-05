@@ -6,12 +6,12 @@ For you to Install SeraWazi first
  Clone in SeraWazi repository
 
  ```sh
- git clone https://github.com/akirachix/GreenRevive-Mobile.git
+ git clone https://github.com/HenrietteDaughtyOloo/Green-Revive-Mobile.git
  ```sh
 
 
  ```sh
- cd GreenRevive-Mobile
+ cd Green-Revive-Mobile
  ```
     
 # Key Features
@@ -21,7 +21,7 @@ SeraWazi offers a range of interactive governance scenarios that users can parti
 # Gamification Elements: 
 Engage users with gamification elements such as points, achievements, and badges. Encourage healthy competition and motivation among users while they learn about governance.
 # Educational Content: 
-Access a wealth of educational resources, articles, and guides related to governance principles,like Bill of Rights and Finance Bill.
+Access a wealth of educational resources, articles, and guides related to governance principles, like the Bill of Rights and the Finance Bill.
 # User-Friendly Interface: 
 Our user-friendly interface makes navigation and participation intuitive, ensuring that users of all ages and backgrounds can easily get involved.
 # Chatbot : 
